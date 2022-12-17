@@ -42,5 +42,3 @@ Tối đa 40 phút 1 cuộc tư vấn.Khi tư vấn kết thúc sớm bác sĩ n
 - Người quản trị : (tk: admin: mk 123456)
 + Quản lý chung hệ thống.
 + Cập nhật tin tức, số liệu. Thêm mới bác sĩ, trung tâm y tế.
-
--KHÁC: WEB hỗ trợ tương thích với nhiều màn hình thiết bị. 
